@@ -1,2 +1,17 @@
-# Beijing-2022
-This is a repository where I store the files I may use during the 2022 Olympic and Paralympic Winter Games (Beijing 2022).
+---
+description: This is page 1.
+---
+
+# Page 1
+
+## Head 1
+
+### Head 2
+
+#### Head 3
+
+This is a random gitbook.
+
+$$
+f(x) = x * e^{2 pi i \xi x}
+$$
